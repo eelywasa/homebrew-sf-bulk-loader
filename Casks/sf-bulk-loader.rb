@@ -3,10 +3,10 @@
 # `sha256`, and `url` lines are rewritten on each release — do not hand-edit
 # them. Placeholder values below remain until the first .dmg release runs.
 cask "sf-bulk-loader" do
-  version "0.12.15"
-  sha256 "29a8c4c7d1dca94dbb40ea01c9822a4de85fa39a8e7cbc0ad6d7352d784b52d9"
+  version "0.13.16"
+  sha256 "820a658e4262ea3d2449e6daca4ffa5e3585d1210d659d058a31169cb63167a2"
 
-  url "https://github.com/eelywasa/sf-bulk-loader/releases/download/v0.12/Salesforce.Bulk.Loader-0.12.15-arm64.dmg"
+  url "https://github.com/eelywasa/sf-bulk-loader/releases/download/v0.13/Salesforce.Bulk.Loader-0.13.16-arm64.dmg"
   name "Salesforce Bulk Loader"
   desc "Containerized orchestrator for large-scale Salesforce Bulk API 2.0 data loads"
   homepage "https://github.com/eelywasa/sf-bulk-loader"
