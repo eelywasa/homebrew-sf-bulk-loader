@@ -11,7 +11,7 @@ cask "sf-bulk-loader" do
   desc "Containerized orchestrator for large-scale Salesforce Bulk API 2.0 data loads"
   homepage "https://github.com/eelywasa/sf-bulk-loader"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Salesforce Bulk Loader.app"
 
